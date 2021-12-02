@@ -1,0 +1,21 @@
+Game engine: Unity, im not comfortable with unreal just yet
+Game Name: Morning Glory
+Game start:Could possibly be normal by just having you go to the grocery store, very
+linear only a one track. Then when the trigger at the store front is hit the
+bounding box gets lifted and the player is free to do what they want.
+soundtrack: Cheery, happy go lucky, like nothing in the world could ever go wrong.
+About: Instead of massacare. Upon being hit with a paintball the neighbor could raise
+his hand and shout "Howdy neighbor"
+length: Short, condensed into one scene maybe.
+title screen: Camera pans up to an empty bed, windows closed but curtains open
+letting in sunlight.
+Menu: The menu would feature only one button, maybe. One button that says
+"Start your day!" which would then load the scene.
+Animations: not sure just yet, well have to get a working build first
+Neighborhood:Just your casual white picket fence neighborhood, maybe even a coldesack
+assets: Sourced from the unity asset store and made by me or tyler/justin
+Time to Make: probably weeks or months.
+
+
+// possibility of it being a project is low because it involves guns
+   but loopholes could be made possibly
